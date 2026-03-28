@@ -16,6 +16,8 @@ function Footer() {
                     <h3>About us</h3>
                     <p>Home</p>
                     <p>How we work</p>
+
+                    dgfg
                     <p>Our team</p>
                     <p>Pricing</p>
                     <p>Legal</p>
